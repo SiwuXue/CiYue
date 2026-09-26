@@ -6,7 +6,7 @@
 
 **把你在读的小说，变成你的单词书**
 
-[![Latest release](https://img.shields.io/github/v/release/SiwuXue/CiYue?logo=github&label=%E6%9C%80%E6%96%B0%E7%89%88)](https://github.com/SiwuXue/CiYue/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/SiwuXue/CiYue?sort=semver&logo=github&label=%E6%9C%80%E6%96%B0%E7%89%88)](https://github.com/SiwuXue/CiYue/releases/latest)
 ![平台](https://img.shields.io/badge/平台-Windows%20·%20macOS%20·%20Linux%20·%20Android-1E3A5F)
 [![官网](https://img.shields.io/badge/官网-ciyue.pages.dev-1E3A5F)](https://ciyue.pages.dev)
 
