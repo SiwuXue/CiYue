@@ -9,6 +9,7 @@
 [![Latest release](https://img.shields.io/github/v/release/SiwuXue/CiYue?sort=semver&logo=github&label=%E6%9C%80%E6%96%B0%E7%89%88)](https://github.com/SiwuXue/CiYue/releases/latest)
 ![平台](https://img.shields.io/badge/平台-Windows%20·%20macOS%20·%20Linux%20·%20Android-1E3A5F)
 [![官网](https://img.shields.io/badge/官网-ciyue.pages.dev-1E3A5F)](https://ciyue.pages.dev)
+[![购买激活码](https://img.shields.io/badge/%F0%9F%94%91%20%E8%B4%AD%E4%B9%B0%E6%BF%80%E6%B4%BB%E7%A0%81-%E9%97%B2%E9%B1%BC%E4%B8%8B%E5%8D%95-FFE60F)](https://m.tb.cn/h.8vVRTwB?tk=zATHTmMcXx6)
 
 </div>
 
@@ -67,6 +68,9 @@ MD/FB2       雅思/中高考      AI 听书         间隔重复
 | Linux x64 | `*_amd64.deb` / `.AppImage` / `.rpm` |
 | Android arm64 | `*_universal.apk` |
 
+> **🔑 激活说明**：应用免费下载，首次启动输入**激活码**即可解锁全部功能（一码一设备）。
+> 激活码在闲鱼发售，下单后即发：**[前往闲鱼购买激活码](https://m.tb.cn/h.8vVRTwB?tk=zATHTmMcXx6)**
+
 ## 💾 数据与隐私
 
 - **完全本地**：小说、词汇、进度全部存储在本机，不上传任何服务器
@@ -76,8 +80,8 @@ MD/FB2       雅思/中高考      AI 听书         间隔重复
 ## ❓ 常见问题
 
 <details>
-<summary><b>如何获取激活卡密？</b></summary>
-首次启动应用后按界面指引获取免费卡密，输入即可完成激活。激活绑定设备，一台设备一个卡密。
+<summary><b>如何获取激活码？</b></summary>
+在 <a href="https://m.tb.cn/h.8vVRTwB?tk=zATHTmMcXx6" target="_blank" rel="noopener">闲鱼</a> 下单购买，下单后即发。首次启动应用时输入激活码即可完成激活，激活绑定设备，一台设备一个激活码。
 </details>
 
 <details>
